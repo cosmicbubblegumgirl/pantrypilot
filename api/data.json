@@ -1,0 +1,96 @@
+{
+  "product": "PantryPilot",
+  "category": "Grocery Refill Assistant",
+  "backend": "GitHub Pages static JSON endpoint plus localStorage write simulation.",
+  "generatedBy": "Simone Govender",
+  "metrics": [
+    {
+      "label": "Basket confidence",
+      "value": "86%",
+      "delta": "+12%"
+    },
+    {
+      "label": "Active records",
+      "value": "7",
+      "delta": "+3"
+    },
+    {
+      "label": "Workflow steps",
+      "value": "4",
+      "delta": "mapped"
+    },
+    {
+      "label": "Local saves",
+      "value": "on",
+      "delta": "browser"
+    }
+  ],
+  "records": [
+    {
+      "id": "pantrypilot-1",
+      "title": "Staples rebuilt",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 92,
+      "trend": "High attention",
+      "updated": "8 min ago"
+    },
+    {
+      "id": "pantrypilot-2",
+      "title": "Substitution locked",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 80,
+      "trend": "In progress",
+      "updated": "19 min ago"
+    },
+    {
+      "id": "pantrypilot-3",
+      "title": "Budget fit improved",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "30 min ago"
+    }
+  ],
+  "workflow": [
+    {
+      "step": 1,
+      "title": "Staple memory",
+      "detail": "PantryPilot uses staple memory to support weekly refill decisions for busy households and grocery teams."
+    },
+    {
+      "step": 2,
+      "title": "Substitution rules",
+      "detail": "PantryPilot uses substitution rules to support pantry memory decisions for busy households and grocery teams."
+    },
+    {
+      "step": 3,
+      "title": "Checkout confidence",
+      "detail": "PantryPilot uses checkout confidence to support basket dashboard decisions for busy households and grocery teams."
+    },
+    {
+      "step": 4,
+      "title": "Delivery feedback",
+      "detail": "PantryPilot uses delivery feedback to support substitution lab decisions for busy households and grocery teams."
+    }
+  ],
+  "activity": [
+    {
+      "title": "Make repeat grocery orders less repetitive",
+      "time": "1h",
+      "kind": "Staple memory"
+    },
+    {
+      "title": "Give households control over substitutions",
+      "time": "2h",
+      "kind": "Substitution rules"
+    },
+    {
+      "title": "Explain why an item is recommended",
+      "time": "3h",
+      "kind": "Checkout confidence"
+    }
+  ]
+}

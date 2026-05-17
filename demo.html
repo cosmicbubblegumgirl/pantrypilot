@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Demo | PantryPilot</title>
+  <meta name="description" content="PantryPilot interactive demo." />
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <style>:root{--brand:#ca8a04;--accent:#16a34a;--second:#dc2626;--soft:#fff8df;--dark:#28200f}</style>
+</head><body><header class="topbar">
+  <a class="brand" href="index.html"><img src="assets/logo.svg" alt="PantryPilot logo" /><span><strong>PantryPilot</strong><small>Grocery Refill Assistant</small></span></a>
+  <nav aria-label="PantryPilot navigation">
+    <a href="index.html">Home</a>
+    <a href="product.html">Product</a>
+    <a href="workspace.html">Workspace</a>
+    <a href="case-study.html">Case Study</a>
+    <a href="demo.html">Demo</a>
+  </nav>
+  <button class="theme-toggle" type="button" data-theme-toggle>Dark</button>
+</header><main><section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Interactive demo</p>
+    <h1>Basket Confidence</h1>
+    <p class="lead">Tune the inputs, watch the result change, then save a browser-side record to simulate a backend write flow.</p>
+    <div class="hero-actions"><a class="button primary" href="workspace.html">Open workspace</a><a class="button secondary" href="demo.html">Try demo</a></div>
+    <p class="notice">Designed by me, Simone Govender. Front end, JSON data layer, and local browser persistence.</p>
+  </div>
+  <aside class="product-stage" aria-label="PantryPilot live preview">
+    <div class="stage-top"><span></span><span></span><span></span><strong data-live-status>Loading data</strong></div>
+    <div class="stage-body"><img src="assets/preview.svg" alt="PantryPilot interface preview" /><div class="live-panel" data-live-panel></div></div>
+  </aside>
+</section><section class="section demo-grid"><form class="panel demo-panel" data-demo-form><p class="eyebrow">Basket Confidence</p><h2>Basket confidence</h2><label>Staples found<input type="range" min="0" max="100" value="55" data-demo-input /></label><label>Substitution risk<input type="range" min="0" max="100" value="69" data-demo-input /></label><label>Budget fit<input type="range" min="0" max="100" value="83" data-demo-input /></label><button class="button primary" type="submit">Save demo record</button><p data-form-status></p></form><article class="result-card"><span data-result-label>Basket confidence</span><strong data-demo-result>0%</strong><p data-outcome>Adjust</p></article><article class="panel wide"><p class="eyebrow">Saved browser records</p><div class="record-list" data-saved-records></div></article></section><section class="section split">
+  <div class="section-heading"><p class="eyebrow">Back end layer</p><h2>Static API, dynamic rendering, saved interactions.</h2><p>GitHub Pages cannot run a server process, so this standalone site uses <code>api/data.json</code> as a backend data contract and localStorage for write-like saved state.</p></div>
+  <div class="api-card panel"><p class="eyebrow">API preview</p><pre data-api-preview>{}</pre></div>
+</section></main><footer><img src="assets/logo.svg" alt="" aria-hidden="true" /><p><strong>PantryPilot</strong><br/>Designed by me, Simone Govender. Standalone GitHub Pages product site with front-end UI, JSON data layer, and local persistence.</p></footer><script>window.SITE_CONFIG={"slug":"pantrypilot","name":"PantryPilot","category":"Grocery Refill Assistant","audience":"busy households and grocery teams","tone":"bright household intelligence","brand":"#ca8a04","accent":"#16a34a","second":"#dc2626","soft":"#fff8df","dark":"#28200f","symbol":"basket","tagline":"Weekly groceries rebuilt with memory and control.","summary":"PantryPilot remembers staples, explains recommendations, and prevents risky substitutions before checkout.","features":["Staple memory","Substitution rules","Checkout confidence","Delivery feedback"],"pages":["Weekly refill","Pantry memory","Basket dashboard","Substitution lab"],"demo":{"label":"Basket Confidence","fields":["Staples found","Substitution risk","Budget fit"],"result":"Basket confidence","outcomes":["Review","Adjust","Ready"]},"records":["Staples rebuilt","Substitution locked","Budget fit improved"],"caseStudy":["Make repeat grocery orders less repetitive","Give households control over substitutions","Explain why an item is recommended"]};</script><script src="assets/app.js"></script></body></html>
