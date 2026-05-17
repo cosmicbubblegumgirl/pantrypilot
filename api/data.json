@@ -11,8 +11,8 @@
     },
     {
       "label": "Active records",
-      "value": "7",
-      "delta": "+3"
+      "value": "100",
+      "delta": "100 seeded"
     },
     {
       "label": "Workflow steps",
@@ -28,30 +28,1003 @@
   "records": [
     {
       "id": "pantrypilot-1",
-      "title": "Staples rebuilt",
+      "title": "Staples rebuilt #001",
       "status": "Staple memory",
       "owner": "Weekly refill",
-      "score": 92,
+      "score": 42,
       "trend": "High attention",
-      "updated": "8 min ago"
+      "updated": "8 min ago",
+      "demoSeed": true
     },
     {
       "id": "pantrypilot-2",
-      "title": "Substitution locked",
+      "title": "Substitution locked #002",
       "status": "Substitution rules",
       "owner": "Pantry memory",
-      "score": 80,
+      "score": 49,
       "trend": "In progress",
-      "updated": "19 min ago"
+      "updated": "13 min ago",
+      "demoSeed": true
     },
     {
       "id": "pantrypilot-3",
-      "title": "Budget fit improved",
+      "title": "Budget fit improved #003",
       "status": "Checkout confidence",
       "owner": "Basket dashboard",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "18 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-4",
+      "title": "Staples rebuilt #004",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "23 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-5",
+      "title": "Substitution locked #005",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "28 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-6",
+      "title": "Budget fit improved #006",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "33 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-7",
+      "title": "Staples rebuilt #007",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "38 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-8",
+      "title": "Substitution locked #008",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "43 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-9",
+      "title": "Budget fit improved #009",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "48 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-10",
+      "title": "Staples rebuilt #010",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "53 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-11",
+      "title": "Substitution locked #011",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "58 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-12",
+      "title": "Budget fit improved #012",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "63 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-13",
+      "title": "Staples rebuilt #013",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "68 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-14",
+      "title": "Substitution locked #014",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "73 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-15",
+      "title": "Budget fit improved #015",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "78 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-16",
+      "title": "Staples rebuilt #016",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "83 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-17",
+      "title": "Substitution locked #017",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "88 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-18",
+      "title": "Budget fit improved #018",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "93 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-19",
+      "title": "Staples rebuilt #019",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "98 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-20",
+      "title": "Substitution locked #020",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "103 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-21",
+      "title": "Budget fit improved #021",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
       "score": 68,
       "trend": "Ready",
-      "updated": "30 min ago"
+      "updated": "108 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-22",
+      "title": "Staples rebuilt #022",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "113 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-23",
+      "title": "Substitution locked #023",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "118 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-24",
+      "title": "Budget fit improved #024",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "123 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-25",
+      "title": "Staples rebuilt #025",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "128 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-26",
+      "title": "Substitution locked #026",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "133 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-27",
+      "title": "Budget fit improved #027",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "138 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-28",
+      "title": "Staples rebuilt #028",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "143 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-29",
+      "title": "Substitution locked #029",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "148 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-30",
+      "title": "Budget fit improved #030",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "153 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-31",
+      "title": "Staples rebuilt #031",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "158 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-32",
+      "title": "Substitution locked #032",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "163 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-33",
+      "title": "Budget fit improved #033",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "168 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-34",
+      "title": "Staples rebuilt #034",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "173 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-35",
+      "title": "Substitution locked #035",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "178 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-36",
+      "title": "Budget fit improved #036",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "183 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-37",
+      "title": "Staples rebuilt #037",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "188 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-38",
+      "title": "Substitution locked #038",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "193 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-39",
+      "title": "Budget fit improved #039",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "198 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-40",
+      "title": "Staples rebuilt #040",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "203 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-41",
+      "title": "Substitution locked #041",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "208 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-42",
+      "title": "Budget fit improved #042",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "213 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-43",
+      "title": "Staples rebuilt #043",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "218 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-44",
+      "title": "Substitution locked #044",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 58,
+      "trend": "In progress",
+      "updated": "223 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-45",
+      "title": "Budget fit improved #045",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 65,
+      "trend": "Ready",
+      "updated": "228 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-46",
+      "title": "Staples rebuilt #046",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 72,
+      "trend": "High attention",
+      "updated": "233 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-47",
+      "title": "Substitution locked #047",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 79,
+      "trend": "In progress",
+      "updated": "238 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-48",
+      "title": "Budget fit improved #048",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 86,
+      "trend": "Ready",
+      "updated": "243 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-49",
+      "title": "Staples rebuilt #049",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 93,
+      "trend": "High attention",
+      "updated": "248 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-50",
+      "title": "Substitution locked #050",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 43,
+      "trend": "In progress",
+      "updated": "253 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-51",
+      "title": "Budget fit improved #051",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 50,
+      "trend": "Ready",
+      "updated": "258 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-52",
+      "title": "Staples rebuilt #052",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 57,
+      "trend": "High attention",
+      "updated": "263 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-53",
+      "title": "Substitution locked #053",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 64,
+      "trend": "In progress",
+      "updated": "268 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-54",
+      "title": "Budget fit improved #054",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 71,
+      "trend": "Ready",
+      "updated": "273 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-55",
+      "title": "Staples rebuilt #055",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 78,
+      "trend": "High attention",
+      "updated": "278 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-56",
+      "title": "Substitution locked #056",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 85,
+      "trend": "In progress",
+      "updated": "283 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-57",
+      "title": "Budget fit improved #057",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 92,
+      "trend": "Ready",
+      "updated": "288 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-58",
+      "title": "Staples rebuilt #058",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 42,
+      "trend": "High attention",
+      "updated": "293 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-59",
+      "title": "Substitution locked #059",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 49,
+      "trend": "In progress",
+      "updated": "298 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-60",
+      "title": "Budget fit improved #060",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "303 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-61",
+      "title": "Staples rebuilt #061",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "308 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-62",
+      "title": "Substitution locked #062",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "313 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-63",
+      "title": "Budget fit improved #063",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "318 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-64",
+      "title": "Staples rebuilt #064",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "323 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-65",
+      "title": "Substitution locked #065",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "328 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-66",
+      "title": "Budget fit improved #066",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "333 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-67",
+      "title": "Staples rebuilt #067",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "338 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-68",
+      "title": "Substitution locked #068",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "343 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-69",
+      "title": "Budget fit improved #069",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "348 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-70",
+      "title": "Staples rebuilt #070",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "353 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-71",
+      "title": "Substitution locked #071",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "358 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-72",
+      "title": "Budget fit improved #072",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "363 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-73",
+      "title": "Staples rebuilt #073",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "368 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-74",
+      "title": "Substitution locked #074",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "373 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-75",
+      "title": "Budget fit improved #075",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "378 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-76",
+      "title": "Staples rebuilt #076",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "383 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-77",
+      "title": "Substitution locked #077",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "388 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-78",
+      "title": "Budget fit improved #078",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "393 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-79",
+      "title": "Staples rebuilt #079",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "398 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-80",
+      "title": "Substitution locked #080",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "403 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-81",
+      "title": "Budget fit improved #081",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "408 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-82",
+      "title": "Staples rebuilt #082",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "413 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-83",
+      "title": "Substitution locked #083",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "418 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-84",
+      "title": "Budget fit improved #084",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "423 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-85",
+      "title": "Staples rebuilt #085",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "428 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-86",
+      "title": "Substitution locked #086",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "433 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-87",
+      "title": "Budget fit improved #087",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "438 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-88",
+      "title": "Staples rebuilt #088",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "443 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-89",
+      "title": "Substitution locked #089",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "448 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-90",
+      "title": "Budget fit improved #090",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "453 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-91",
+      "title": "Staples rebuilt #091",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "458 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-92",
+      "title": "Substitution locked #092",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "463 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-93",
+      "title": "Budget fit improved #093",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "468 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-94",
+      "title": "Staples rebuilt #094",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "473 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-95",
+      "title": "Substitution locked #095",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "478 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-96",
+      "title": "Budget fit improved #096",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "483 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-97",
+      "title": "Staples rebuilt #097",
+      "status": "Staple memory",
+      "owner": "Weekly refill",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "488 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-98",
+      "title": "Substitution locked #098",
+      "status": "Substitution rules",
+      "owner": "Pantry memory",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "493 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-99",
+      "title": "Budget fit improved #099",
+      "status": "Checkout confidence",
+      "owner": "Basket dashboard",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "498 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "pantrypilot-100",
+      "title": "Staples rebuilt #100",
+      "status": "Delivery feedback",
+      "owner": "Substitution lab",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "503 min ago",
+      "demoSeed": true
     }
   ],
   "workflow": [
